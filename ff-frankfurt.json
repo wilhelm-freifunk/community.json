@@ -14,7 +14,11 @@
 		"twitter": "https://twitter.com/FreiFunkFFM"
 	},
 
-	"url": "http://www.wifi-frankfurt.de/"
+	"url": "http://www.wifi-frankfurt.de/",
+	
+	"state": {
+		"lastchange": 0
+	}
 
 }
 
