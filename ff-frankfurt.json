@@ -1,6 +1,6 @@
 {
-  "name": "Freifunk Frankfurt am Main - ffffm",
-  "url": "http://www.wifi-frankfurt.de/",
+  "name": "Freifunk Frankfurt am Main",
+  "url": "http://ffm.freifunk.net/",
   "state": {
     "nodes": 4,
     "lastchange": 0,
@@ -20,7 +20,7 @@
   "techDetails": {
     "stoererhaftung": "VPN",
     "firmware": {
-      "url": "http://wiki.freifunk.net/Firmware_Flashen"
+      "url": "http://www.wifi-frankfurt.de/mitmachen/"
     },
     "networks": {
       "ipv4": [
